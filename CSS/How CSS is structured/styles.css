@@ -1,0 +1,39 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    color: red;
+  }
+
+h1
+{
+    color: brown;
+}
+a:link
+{
+    color: green;
+}
+.manythings
+{
+    font-weight: bold;
+    text-shadow: 4px 4px 3px #77f;
+}
+#onething
+{
+    border: red 2px solid;
+}
+
+.box p
+{
+    margin: 2em;
+}
+.box p:first-child
+{
+    color: indigo;
+}
+
+h1,h2,.intro
+{
+    font-size: 24px;
+}
